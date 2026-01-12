@@ -40,6 +40,7 @@
     width="360"
     alt="My GitHub Statistics"
   />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=binilab&layout=compact&theme=tokyonight"
     width="260"
