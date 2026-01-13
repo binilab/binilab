@@ -30,8 +30,8 @@
 
 <!-- Stats (GitHub + Top Langs + BOJ) -->
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=binilab&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=binilab&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=binilab&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=binilab&layout=compact&theme=radical" width="49%" />
 </div>
 <div align="center">
     <img
