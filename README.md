@@ -30,24 +30,18 @@
 
 <!-- Stats (GitHub + Top Langs + BOJ) -->
 <div align="center">
-  <h3>📊 Stats</h3>
-
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=binilab&show_icons=true&theme=tokyonight"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=binilab&layout=compact&theme=tokyonight"
-    height="150"
-    alt="Top Langs"
-  />
-  <img
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=binilab&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=binilab&layout=compact&theme=tokyonight" width="49%" />
+</div>
+<div align="center">
+    <img
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlandjsqls19"
     height="150"
     alt="BOJ Badge"
   />
 </div>
+
+
 
 <br/>
 
