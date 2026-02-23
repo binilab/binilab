@@ -28,15 +28,6 @@
 
 <br/>
 
-<!-- Stats (GitHub + Top Langs + BOJ) -->
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=binilab&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=binilab&layout=compact&theme=radical" width="49%" />
-</div>
-
-
-
-
 <br/>
 
 <!-- Contact -->
