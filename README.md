@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F4F9FF&text=wonbin's%20GitHub%20&height=150&fontSize=60"
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D6E8FF&text=wonbin's%20GitHub%20&height=150&fontSize=60"
     alt="wonbin"
   />
 </div>
