@@ -40,20 +40,6 @@ Infra & DevOps
 
 <br/>
 
-### GitHub Stats
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=binilab&layout=compact&hide_border=true&langs_count=4&theme=tokyonight"
-  />
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=binilab&layout=compact&hide_border=true&langs_count=4&theme=default"
-  />
-</picture>
-
-<br/>
-
 ### Contact
 <p align="left">
   <a href="mailto:rladnjsqls94@gmail.com">
