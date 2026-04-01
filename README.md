@@ -50,7 +50,7 @@ Infra & DevOps
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=binilab&layout=compact&hide_border=true&langs_count=4&theme=tokyonight"
   />
   <img
-    alt="Top Languages (binilab)"
+    alt="Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=binilab&layout=compact&hide_border=true&langs_count=4&theme=default"
   />
 </picture>
