@@ -20,6 +20,11 @@ Data Science Senior | Undergraduate Researcher in Korean NLP
 
 ### Projects
 
+#### [세종시 아동·육아 인프라 접근성 분석](https://github.com/binilab/sejong-child-infra-analysis)
+
+세종시 생활권별 육아 수요와 인프라 공급을 비교해 우선 보완 지역을 도출한 데이터 분석 프로젝트
+`Python` · `pandas` · `scikit-learn` · `PostgreSQL/PostGIS` · `Folium`
+
 #### [OurTime](https://github.com/binilab/team-scheduling)
 
 여러 사용자의 가능한 시간을 히트맵으로 비교하는 팀 일정 조율 서비스
@@ -27,7 +32,7 @@ Data Science Senior | Undergraduate Researcher in Korean NLP
 
 #### [왔어](https://github.com/binilab/watseo-app)
 
-상세 위치를 지속해서 공유하지 않고 QR로 도착 상태를 확인하는 안전 귀가 앱
+필요한 사람과 시간에만 도착 상태를 공유하는 안전 귀가 앱
 `Expo` · `React Native` · `TypeScript` · `Supabase`
 
 #### [언론인 AI 활용 및 전환 스트레스 분석](https://github.com/binilab/journalist-ai-stress)
