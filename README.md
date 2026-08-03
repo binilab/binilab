@@ -12,37 +12,39 @@
   </picture>
 </div>
 
-### Tech Stack
+Data Science Senior | Undergraduate Researcher in Korean NLP
 
-Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
-</p>
+데이터를 분석하고, 이를 실제 웹·앱 서비스로 구현하는 과정에 관심이 있습니다.
 
-Data & DB
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-</p>
+<br/>
 
-Infra
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+### Projects
+
+#### [OurTime](https://github.com/binilab/team-scheduling)
+
+여러 사용자의 가능한 시간을 히트맵으로 비교하는 팀 일정 조율 서비스
+`Next.js` · `TypeScript` · `Supabase`
+
+#### [왔어](https://github.com/binilab/watseo-app)
+
+상세 위치를 지속해서 공유하지 않고 QR로 도착 상태를 확인하는 안전 귀가 앱
+`Expo` · `React Native` · `TypeScript` · `Supabase`
+
+#### [언론인 AI 활용 및 전환 스트레스 분석](https://github.com/binilab/journalist-ai-stress)
+
+2023·2025년 언론인 조사 데이터를 활용해 AI 활용과 디지털 피로 변화를 분석한 프로젝트
+`Python` · `pandas` · `scikit-learn` · `Jupyter Notebook`
+
+<br/>
+
+### Currently Studying
+
+`Korean NLP` · `Deep Learning`
 
 <br/>
 
 ### Contact
-<p align="left">
-  <a href="mailto:rladnjsqls94@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+<a href="mailto:rladnjsqls94@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
