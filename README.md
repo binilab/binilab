@@ -18,6 +18,43 @@ Data Science Senior | Undergraduate Researcher in Korean NLP
 
 <br/>
 
+### App Store 출시
+
+<table>
+<tr>
+<td width="90" align="center" valign="top">
+<img src="assets/chamatda.png" width="72" alt="참았다" />
+</td>
+<td valign="top">
+
+**[참았다](https://apps.apple.com/kr/app/id6807487290)** · iOS · 2026.09
+
+가계부는 쓴 돈을 적지만, 이 앱은 **안 쓴 돈**을 적는다. 택시 대신 걸은 순간을 한 번 탭하면
+사고 싶던 물건의 목표 게이지가 오른다. 홈 화면·잠금화면 위젯에서 바로 기록된다.
+
+`SwiftUI` `SwiftData` `WidgetKit` `AppIntents` — 서버 없는 로컬 전용 앱
+
+</td>
+</tr>
+<tr>
+<td width="90" align="center" valign="top">
+<img src="assets/picset.png" width="72" alt="픽셋" />
+</td>
+<td valign="top">
+
+**[픽셋](https://apps.apple.com/kr/app/id6806772028)** · iOS · 2026.09
+
+친구가 보낸 사진이 홈 화면 위젯에 바로 뜨는 앱. 공개 피드도 팔로워도 추천 알고리즘도 없이,
+서로 수락한 친구끼리만 사진이 오간다. 푸시가 오면 앱이 꺼져 있어도 위젯이 갱신된다.
+
+`Expo` `React Native` `WidgetKit` `Supabase` — Notification Service Extension 으로 위젯 갱신
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ### Projects
 
 #### [세종시 아동·육아 인프라 접근성 분석](https://github.com/binilab/sejong-child-infra-analysis)
