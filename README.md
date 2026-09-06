@@ -72,10 +72,6 @@ Data Science Senior | Undergraduate Researcher in Korean NLP
 여러 사용자의 가능한 시간을 히트맵으로 비교하는 팀 일정 조율 서비스
 
 
-#### [왔어](https://github.com/binilab/watseo-app)
-
-필요한 사람과 시간에만 도착 상태를 공유하는 안전 귀가 앱
-
 
 <br/>
 
