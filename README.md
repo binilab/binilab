@@ -51,6 +51,21 @@ Data Science Senior | Undergraduate Researcher in Korean NLP
 
 </td>
 </tr>
+<tr>
+<td width="90" align="center" valign="top">
+<img src="assets/borrowed.png" width="72" alt="빌린것" />
+</td>
+<td valign="top">
+
+**[빌린것](https://apps.apple.com/kr/app/id6808165525)** · iOS
+
+친구끼리 빌려주고 빌린 기록을 **양쪽이 함께** 본다. 합의한 뒤엔 한쪽이 금액도 반납일도
+못 바꾼다 — 앱이 아니라 Postgres 트리거가 막는다. 반납일은 "제안 → 수락"으로만 바뀐다.
+
+`SwiftUI` `Swift 6 strict` `Supabase RLS` `WidgetKit` — Swift 375 · pgTAP 141 테스트
+
+</td>
+</tr>
 </table>
 
 <br/>
