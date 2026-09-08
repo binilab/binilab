@@ -18,75 +18,26 @@ Data Science Senior | Undergraduate Researcher in Korean NLP
 
 <br/>
 
-### App Store 출시
+### 앱 · App Store 출시
 
-<table>
-<tr>
-<td width="90" align="center" valign="top">
-<img src="assets/chamatda.png" width="72" alt="참았다" />
-</td>
-<td valign="top">
+| 앱 | 한 줄 | 스택 |
+|---|---|---|
+| **[빌린것](https://apps.apple.com/kr/app/id6808165525)** | 빌려주고 빌린 기록을 양쪽이 함께 본다 | SwiftUI · Swift 6 · Supabase RLS |
+| **[참았다](https://apps.apple.com/kr/app/id6807487290)** | 쓴 돈이 아니라 안 쓴 돈을 적는 가계부 | SwiftUI · SwiftData · WidgetKit |
+| **[픽셋](https://apps.apple.com/kr/app/id6806772028)** | 친구가 보낸 사진이 홈 화면 위젯에 뜬다 | Expo · WidgetKit · Supabase |
 
-**[참았다](https://apps.apple.com/kr/app/id6807487290)** · iOS
+### 웹
 
-가계부는 쓴 돈을 적지만, 이 앱은 **안 쓴 돈**을 적는다. 택시 대신 걸은 순간을 한 번 탭하면
-사고 싶던 물건의 목표 게이지가 오른다. 홈 화면·잠금화면 위젯에서 바로 기록된다.
+| 프로젝트 | 한 줄 | 스택 |
+|---|---|---|
+| **[OurTime](https://github.com/binilab/team-scheduling)** | 여러 사람의 가능한 시간을 히트맵으로 비교하는 일정 조율 | Next.js · Supabase |
 
-`SwiftUI` `SwiftData` `WidgetKit` `AppIntents` — 서버 없는 로컬 전용 앱
+### 데이터 분석
 
-</td>
-</tr>
-<tr>
-<td width="90" align="center" valign="top">
-<img src="assets/picset.png" width="72" alt="픽셋" />
-</td>
-<td valign="top">
-
-**[픽셋](https://apps.apple.com/kr/app/id6806772028)** · iOS
-
-친구가 보낸 사진이 홈 화면 위젯에 바로 뜨는 앱. 공개 피드도 팔로워도 추천 알고리즘도 없이,
-서로 수락한 친구끼리만 사진이 오간다. 푸시가 오면 앱이 꺼져 있어도 위젯이 갱신된다.
-
-`Expo` `React Native` `WidgetKit` `Supabase` — Notification Service Extension 으로 위젯 갱신
-
-</td>
-</tr>
-<tr>
-<td width="90" align="center" valign="top">
-<img src="assets/borrowed.png" width="72" alt="빌린것" />
-</td>
-<td valign="top">
-
-**[빌린것](https://apps.apple.com/kr/app/id6808165525)** · iOS
-
-친구끼리 빌려주고 빌린 기록을 **양쪽이 함께** 본다. 합의한 뒤엔 한쪽이 금액도 반납일도
-못 바꾼다 — 앱이 아니라 Postgres 트리거가 막는다. 반납일은 "제안 → 수락"으로만 바뀐다.
-
-`SwiftUI` `Swift 6 strict` `Supabase RLS` `WidgetKit` — Swift 375 · pgTAP 141 테스트
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### Projects
-
-#### [세종시 아동·육아 인프라 접근성 분석](https://github.com/binilab/sejong-child-infra-analysis)
-
-세종시 생활권별 육아 수요와 인프라 공급을 비교해 우선 보완 지역을 도출한 데이터 분석 프로젝트
-
-
-#### [언론인 AI 활용 및 전환 스트레스 분석](https://github.com/binilab/journalist-ai-stress)
-
-2023·2025년 언론인 조사 데이터를 활용해 AI 활용과 디지털 피로 변화를 분석한 프로젝트
-
-
-#### [OurTime](https://github.com/binilab/team-scheduling)
-
-여러 사용자의 가능한 시간을 히트맵으로 비교하는 팀 일정 조율 서비스
-
-
+| 프로젝트 | 한 줄 |
+|---|---|
+| **[세종시 아동·육아 인프라 접근성](https://github.com/binilab/sejong-child-infra-analysis)** | 생활권별 육아 수요와 공급을 비교해 우선 보완 지역 도출 |
+| **[언론인 AI 활용·전환 스트레스](https://github.com/binilab/journalist-ai-stress)** | 2023·2025 조사 데이터로 AI 활용과 디지털 피로 변화 분석 |
 
 <br/>
 
