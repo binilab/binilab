@@ -22,22 +22,22 @@ Data Science Senior | Undergraduate Researcher in Korean NLP
 
 | 앱 | 한 줄 | 스택 |
 |---|---|---|
-| **[빌린것](https://apps.apple.com/kr/app/id6808165525)** | 빌려주고 빌린 기록을 양쪽이 함께 본다 | SwiftUI · Swift 6 · Supabase RLS |
-| **[참았다](https://apps.apple.com/kr/app/id6807487290)** | 쓴 돈이 아니라 안 쓴 돈을 적는 가계부 | SwiftUI · SwiftData · WidgetKit |
-| **[픽셋](https://apps.apple.com/kr/app/id6806772028)** | 친구가 보낸 사진이 홈 화면 위젯에 뜬다 | Expo · WidgetKit · Supabase |
+| **[빌린것](https://apps.apple.com/kr/app/id6808165525)** | 빌려주고 빌린 기록을 양쪽이 함께 본다 | Swift |
+| **[참았다](https://apps.apple.com/kr/app/id6807487290)** | 쓴 돈이 아니라 안 쓴 돈을 적는 가계부 | Swift |
+| **[픽셋](https://apps.apple.com/kr/app/id6806772028)** | 친구가 보낸 사진이 홈 화면 위젯에 뜬다 | React Native |
 
 ### 웹
 
 | 프로젝트 | 한 줄 | 스택 |
 |---|---|---|
-| **[OurTime](https://github.com/binilab/team-scheduling)** | 여러 사람의 가능한 시간을 히트맵으로 비교하는 일정 조율 | Next.js · Supabase |
+| **[OurTime](https://github.com/binilab/team-scheduling)** | 여러 사람의 가능한 시간을 히트맵으로 비교하는 일정 조율 | Next.js |
 
 ### 데이터 분석
 
-| 프로젝트 | 한 줄 |
-|---|---|
-| **[세종시 아동·육아 인프라 접근성](https://github.com/binilab/sejong-child-infra-analysis)** | 생활권별 육아 수요와 공급을 비교해 우선 보완 지역 도출 |
-| **[언론인 AI 활용·전환 스트레스](https://github.com/binilab/journalist-ai-stress)** | 2023·2025 조사 데이터로 AI 활용과 디지털 피로 변화 분석 |
+| 프로젝트 | 한 줄 | 스택 |
+|---|---|---|
+| **[세종시 아동·육아 인프라 접근성](https://github.com/binilab/sejong-child-infra-analysis)** | 생활권별 육아 수요와 공급을 비교해 우선 보완 지역 도출 | Python |
+| **[언론인 AI 활용·전환 스트레스](https://github.com/binilab/journalist-ai-stress)** | 2023·2025 조사 데이터로 AI 활용과 디지털 피로 변화 분석 | Python |
 
 <br/>
 
