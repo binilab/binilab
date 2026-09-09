@@ -18,27 +18,27 @@ Data Science Senior | Undergraduate Researcher in Korean NLP
 
 <br/>
 
+### 데이터 분석
+
+| 프로젝트 | 한 줄 | 비고 |
+|---|---|---|
+| **[세종시 아동·육아 인프라 접근성](https://github.com/binilab/sejong-child-infra-analysis)** | 수요 대비 인프라가 부족한 생활권을 찾아 정책 우선순위 도출 | 세종시 데이터·AI 경진대회 **본선 진출** |
+| **[언론인 AI 활용·전환 스트레스](https://github.com/binilab/journalist-ai-stress)** | 2023·2025 조사 비교 — AI 활용보다 디지털 피로가 더 빠르게 증가 | 언론재단 경진대회 출품 |
+
 ### 앱 · App Store 출시
 
-| 앱 | 한 줄 | 스택 |
+| 앱 | 한 줄 | 기술 |
 |---|---|---|
-| **[빌린것](https://apps.apple.com/kr/app/id6808165525)** | 빌려주고 빌린 기록을 양쪽이 함께 본다 | Swift |
-| **[참았다](https://apps.apple.com/kr/app/id6807487290)** | 쓴 돈이 아니라 안 쓴 돈을 적는 가계부 | Swift |
-| **[픽셋](https://apps.apple.com/kr/app/id6806772028)** | 친구가 보낸 사진이 홈 화면 위젯에 뜬다 | React Native |
+| **[빌린것](https://apps.apple.com/kr/app/id6808165525)** | 빌려주고 빌린 기록을 양쪽이 함께 본다 | SwiftUI |
+| **[참았다](https://apps.apple.com/kr/app/id6807487290)** | 쓴 돈이 아니라 안 쓴 돈을 적는 가계부 | SwiftUI |
 | **[너차례](https://apps.apple.com/kr/app/id6808867640)** | 폰을 건네는 동작을 감지해 넘어가는 파티 게임 | Flutter |
+| **[픽셋](https://apps.apple.com/kr/app/id6806772028)** | 친구가 보낸 사진이 홈 화면 위젯에 뜬다 | React Native |
 
 ### 웹
 
-| 프로젝트 | 한 줄 | 스택 |
+| 프로젝트 | 한 줄 | 기술 |
 |---|---|---|
 | **[OurTime](https://github.com/binilab/team-scheduling)** | 여러 사람의 가능한 시간을 히트맵으로 비교하는 일정 조율 | Next.js |
-
-### 데이터 분석
-
-| 프로젝트 | 한 줄 | 스택 |
-|---|---|---|
-| **[세종시 아동·육아 인프라 접근성](https://github.com/binilab/sejong-child-infra-analysis)** | 생활권별 육아 수요와 공급을 비교해 우선 보완 지역 도출 | Python |
-| **[언론인 AI 활용·전환 스트레스](https://github.com/binilab/journalist-ai-stress)** | 2023·2025 조사 데이터로 AI 활용과 디지털 피로 변화 분석 | Python |
 
 <br/>
 
