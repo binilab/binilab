@@ -25,6 +25,7 @@ Data Science Senior | Undergraduate Researcher in Korean NLP
 | **[빌린것](https://apps.apple.com/kr/app/id6808165525)** | 빌려주고 빌린 기록을 양쪽이 함께 본다 | Swift |
 | **[참았다](https://apps.apple.com/kr/app/id6807487290)** | 쓴 돈이 아니라 안 쓴 돈을 적는 가계부 | Swift |
 | **[픽셋](https://apps.apple.com/kr/app/id6806772028)** | 친구가 보낸 사진이 홈 화면 위젯에 뜬다 | React Native |
+| **[너차례](https://apps.apple.com/kr/app/id6808867640)** | 폰을 건네는 동작을 감지해 넘어가는 파티 게임 | Flutter |
 
 ### 웹
 
