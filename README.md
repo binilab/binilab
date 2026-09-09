@@ -22,7 +22,7 @@ Data Science Senior | Undergraduate Researcher in Korean NLP
 
 | 프로젝트 | 한 줄 | 비고 |
 |---|---|---|
-| **[세종시 아동·육아 인프라 접근성](https://github.com/binilab/sejong-child-infra-analysis)** | 수요 대비 인프라가 부족한 생활권을 찾아 정책 우선순위 도출 | 세종시 데이터·AI 경진대회 **본선 진출** |
+| **[세종시 아동·육아 인프라 접근성](https://github.com/binilab/sejong-child-infra-analysis)** | 수요 대비 인프라가 부족한 생활권을 찾아 정책 우선순위 도출 | 세종시 데이터·AI 경진대회 본선 진출 |
 | **[언론인 AI 활용·전환 스트레스](https://github.com/binilab/journalist-ai-stress)** | 2023·2025 조사 비교 — AI 활용보다 디지털 피로가 더 빠르게 증가 | 언론재단 경진대회 출품 |
 
 ### 앱 · App Store 출시
